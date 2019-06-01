@@ -6,7 +6,7 @@
 <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600"
         rel="stylesheet">
-<link rel="stylesheet" href="../css/font-awesome.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/pages/dashboard.css" rel="stylesheet">
 <link href="intro.js-1.0.0/example/assets/css/assets/css/bootstrap.min.css" rel="stylesheet">
